@@ -1,0 +1,24 @@
+Weather Stats for - AHMEDABAD  || 22 Jun 2021 | 04:30:17 PM
+Current temperature is: 28.02 deg C
+
+Current weather desc  : mist 
+
+Current Humidity      :89% 
+
+Current wind speed    :2.57kmph 
+Weather Stats for - SURAT  || 22 Jun 2021 | 04:30:49 PM
+Current temperature is: 28.99 deg C
+
+Current weather desc  : overcast clouds 
+
+Current Humidity      :74% 
+
+Current wind speed    :3.09kmph 
+Weather Stats for - DELHI  || 22 Jun 2021 | 04:31:22 PM
+Current temperature is: 36.05 deg C
+
+Current weather desc  : haze 
+
+Current Humidity      :32% 
+
+Current wind speed    :0kmph 
